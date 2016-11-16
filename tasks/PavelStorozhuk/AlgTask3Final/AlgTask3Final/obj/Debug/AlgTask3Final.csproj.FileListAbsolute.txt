@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\AlgTask3Final\AlgTask3Final\bin\Debug\AlgTask3Final.exe.config
+c:\users\user\documents\visual studio 2013\Projects\AlgTask3Final\AlgTask3Final\bin\Debug\AlgTask3Final.exe
+c:\users\user\documents\visual studio 2013\Projects\AlgTask3Final\AlgTask3Final\bin\Debug\AlgTask3Final.pdb
+c:\users\user\documents\visual studio 2013\Projects\AlgTask3Final\AlgTask3Final\obj\Debug\AlgTask3Final.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\AlgTask3Final\AlgTask3Final\obj\Debug\AlgTask3Final.exe
+c:\users\user\documents\visual studio 2013\Projects\AlgTask3Final\AlgTask3Final\obj\Debug\AlgTask3Final.pdb
