@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\AlgTask4\AlgTask4\bin\Debug\AlgTask4.exe.config
+c:\users\user\documents\visual studio 2013\Projects\AlgTask4\AlgTask4\bin\Debug\AlgTask4.exe
+c:\users\user\documents\visual studio 2013\Projects\AlgTask4\AlgTask4\bin\Debug\AlgTask4.pdb
+c:\users\user\documents\visual studio 2013\Projects\AlgTask4\AlgTask4\obj\Debug\AlgTask4.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\AlgTask4\AlgTask4\obj\Debug\AlgTask4.exe
+c:\users\user\documents\visual studio 2013\Projects\AlgTask4\AlgTask4\obj\Debug\AlgTask4.pdb
